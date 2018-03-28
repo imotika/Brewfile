@@ -2,9 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-install mas
-mas install 803453959 #Slack
-mas install 715768417 #Microsoft Remote Desktop 
 
 tap caskroom/cask
 cask install docker
@@ -26,3 +23,8 @@ install zsh
 tap neovim/neovim
 install neovim/neovim/neovim
 
+install mas
+
+mas install 803453959 #Slack
+mas install 715768417 #Microsoft Remote Desktop
+mas install 425424353 #The Unarchiver
